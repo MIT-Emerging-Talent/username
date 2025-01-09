@@ -1,99 +1,64 @@
-# Hi there! 👋 Welcome to my GitHub
-
-I'm a **Data Analyst** and **Web Developer** with a passion for uncovering
-insights and building solutions that make an impact. Whether it's crunching
-numbers, visualizing data, or coding up sleek web apps, I thrive on challenges
-and love solving problems with creativity and logic.
-
----
+# README
 
 ## 🚀 About Me
 
-- **🔍 Curious Analyst**: I love diving into datasets to find meaningful
-  patterns and tell compelling stories through data.
-- **💻 Problem-Solving Coder**: I build clean, efficient, and user-friendly
-  websites that solve real-world problems.
-- **📚 Lifelong Learner**: Constantly leveling up my skills in Python, SQL,
-  JavaScript, and data visualization tools.
-- **🌍 Advocate for Change**: Passionate about working with data that
-  contributes to social improvement, especially in poverty, education, and
-  equity.
-
----
+- **🔍 Curious Analyst**: I love exploring data-driven solutions to make impactful decisions.
+- **💻 Lifelong Learner**: Committed to continuous growth and learning.
+- **🌍 Social Impact Enthusiast**: Passionate about leveraging data to improve education and reduce poverty.
 
 ## 🔧 Skills & Tools
 
-### Data Analysis
+#### **Data Analysis**
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) *(Learning)*
-- SQL (Database querying and optimization)
-- Data Cleaning and Wrangling
-- Exploratory Data Analysis (EDA)
-- Power BI (Data Visualization)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Excel (Pivot Tables, VLOOKUP, Macros)
+- Data Visualization (Tableau, Power BI)
 
-### Web Development
+#### **Web Development**
 
 - HTML, CSS, JavaScript (Frontend)
-- React.js / Next.js *(Learning)*
-- Node.js, Express.js *(Learning)*
-- RESTful APIs *(Learning)*
-- Git & GitHub (Version Control)
+- Python (Django, Flask)
 
-### Soft Skills
+#### **Soft Skills**
 
 - Critical Thinking
-- Problem-Solving
-- Communication & Storytelling
-- Adaptability & Collaboration
-
----
+- Problem Solving
+- Communication
 
 ## 🌟 What Makes Me Cool
 
-- I turn data into decisions and problems into possibilities.
-- My curiosity drives me to explore, learn, and innovate continuously.
-- I combine technical expertise with a knack for storytelling to create
-  impactful solutions.
-- Always ready to learn from failures and iterate toward success.
-
----
+- I turn data into decisions and insights that drive meaningful change.
+- I thrive in dynamic environments, constantly learning and adapting.
+- My mission is to create data solutions that benefit communities and inspire positive impact.
 
 ## 🌱 Current Goals
 
-- Build a portfolio of impactful data-driven projects.
-- Master advanced concepts in machine learning and full-stack web development.
-- Collaborate on open-source projects and contribute to the community.
-
----
+- Build a portfolio of impactful data projects.
+- Collaborate with teams on open-source projects.
+- Expand knowledge of machine learning techniques.
 
 ## 📈 Featured Projects
 
-### 🛠️ Project 1: Data Insights Dashboard
+#### 🛠️ [Project 1: Data Insights Dashboard](#)
 
-- **Description**: An interactive dashboard that visualizes key insights from
-  a dataset related to social impact.
-- **Tech Stack**: Python, Power BI, SQL
+- **Description**: An interactive dashboard that provides insights into social-economic data.
+- **Tools**: Python, Tableau, PostgreSQL
+- **Outcome**: Helped stakeholders visualize key trends and make data-driven decisions.
 
-### 🌐 Project 2: Responsive Web App
+#### 🌐 [Project 2: Responsive Web App](#)
 
-- **Description**: A web application built for showcasing educational
-  resources.
-- **Tech Stack**: React.js, Node.js, MongoDB
+- **Description**: A web application for tracking educational progress across regions.
+- **Tools**: HTML, CSS, JavaScript, Flask
+- **Outcome**: Improved data accessibility and regional reporting efficiency.
 
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fikremichael-mamo-46185b331/)
 - Twitter: [@YourTwitterHandle](https://x.com/FikreMichael_M)
 - Email: [fikremichaelmamo@gmail.com](mailto:fikremichaelmamo@gmail.com)
 - Web Site: [fikremamo.com](https://firke-portfolio.netlify.app)
 
----
-
 ## 🎉 Fun Fact
 
-I started my journey by exploring multiple fields like graphic design and web
-development before discovering my true calling in data and technology. This
-exploration gives me a unique perspective in problem-solving, blending
-analytical thinking with creativity. 🚀
+I believe that every dataset tells a story—uncovering it requires curiosity, persistence, and a little creativity.
