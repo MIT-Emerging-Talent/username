@@ -82,13 +82,12 @@ and love solving problems with creativity and logic.
 
 ---
 
-## 📧 Let's Connect
+## 📫 Let's Connect!
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fikremichael-
-  mamo-46185b331/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/fikremichael-mamo-46185b331/)
 - Twitter: [@YourTwitterHandle](https://x.com/FikreMichael_M)
-- Email: [fikremichaelmamo@gmail.com](fikremichaelmamo@gmail.com)
-- Website: [fikremamo.com](https://firke-portfolio.netlify.app)
+- Email: [fikremichaelmamo@gmail.com](mailto:fikremichaelmamo@gmail.com)
+- Web Site: [fikremamo.com](https://firke-portfolio.netlify.app)
 
 ---
 
