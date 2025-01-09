@@ -43,7 +43,7 @@
 
 ## 📈 Featured Projects
 
-### 🛠️ [Project 1: Data Insights Dashboard](#)
+### 🛠️ Project 1: Data Insights Dashboard
 
 - **Description**: An interactive dashboard that provides insights into
   social-economic data.
@@ -51,7 +51,7 @@
 - **Outcome**: Helped stakeholders visualize key trends and make data-driven
   decisions.
 
-### 🌐 [Project 2: Responsive Web App](#)
+### 🌐 Project 2: Responsive Web App
 
 - **Description**: A web application for tracking educational progress across
   regions.
