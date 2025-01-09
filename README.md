@@ -2,25 +2,27 @@
 
 ## 🚀 About Me
 
-- **🔍 Curious Analyst**: I love exploring data-driven solutions to make impactful decisions.
+- **🔍 Curious Analyst**: I love exploring data-driven solutions to make
+  impactful decisions.
 - **💻 Lifelong Learner**: Committed to continuous growth and learning.
-- **🌍 Social Impact Enthusiast**: Passionate about leveraging data to improve education and reduce poverty.
+- **🌍 Social Impact Enthusiast**: Passionate about leveraging data to improve
+  education and reduce poverty.
 
 ## 🔧 Skills & Tools
 
-#### **Data Analysis**
+### **Data Analysis**
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL (PostgreSQL, MySQL)
 - Excel (Pivot Tables, VLOOKUP, Macros)
 - Data Visualization (Tableau, Power BI)
 
-#### **Web Development**
+### **Web Development**
 
 - HTML, CSS, JavaScript (Frontend)
 - Python (Django, Flask)
 
-#### **Soft Skills**
+### **Soft Skills**
 
 - Critical Thinking
 - Problem Solving
@@ -30,7 +32,8 @@
 
 - I turn data into decisions and insights that drive meaningful change.
 - I thrive in dynamic environments, constantly learning and adapting.
-- My mission is to create data solutions that benefit communities and inspire positive impact.
+- My mission is to create data solutions that benefit communities and inspire
+  positive impact.
 
 ## 🌱 Current Goals
 
@@ -40,15 +43,18 @@
 
 ## 📈 Featured Projects
 
-#### 🛠️ [Project 1: Data Insights Dashboard](#)
+### 🛠️ [Project 1: Data Insights Dashboard](#)
 
-- **Description**: An interactive dashboard that provides insights into social-economic data.
+- **Description**: An interactive dashboard that provides insights into
+  social-economic data.
 - **Tools**: Python, Tableau, PostgreSQL
-- **Outcome**: Helped stakeholders visualize key trends and make data-driven decisions.
+- **Outcome**: Helped stakeholders visualize key trends and make data-driven
+  decisions.
 
-#### 🌐 [Project 2: Responsive Web App](#)
+### 🌐 [Project 2: Responsive Web App](#)
 
-- **Description**: A web application for tracking educational progress across regions.
+- **Description**: A web application for tracking educational progress across
+  regions.
 - **Tools**: HTML, CSS, JavaScript, Flask
 - **Outcome**: Improved data accessibility and regional reporting efficiency.
 
@@ -61,4 +67,5 @@
 
 ## 🎉 Fun Fact
 
-I believe that every dataset tells a story—uncovering it requires curiosity, persistence, and a little creativity.
+I believe that every dataset tells a story—uncovering it requires curiosity,
+persistence, and a little creativity.
