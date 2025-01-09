@@ -1,6 +1,8 @@
 # Hi there! 👋 Welcome to my GitHub
 
-I'm a **Data Analyst** and **Web Developer** with a passion for uncovering insights and building solutions that make an impact. Whether it's crunching numbers, visualizing data, or coding up sleek web apps, I thrive on challenges and love solving problems with creativity and logic.
+I'm a **Data Analyst** and **Web Developer** with a passion for uncovering insights and building solutions that make an impact.  
+Whether it's crunching numbers, visualizing data, or coding up sleek web apps,  
+I thrive on challenges and love solving problems with creativity and logic.  
 
 ---
 
