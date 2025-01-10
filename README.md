@@ -10,10 +10,12 @@ Welcome to my GitHub! 🌟
 
 ## 🚀 About Me  
 
+MIT Emerging Talent Participant
+
 📖 **Currently Learning:**  
 
 - 🐍 Python  
-- 📊 Math for Data Science through the MIT Emerging Talent Program  
+- 📊 Math for Data Science
 
 🎯 **Aspiration:**  
 
